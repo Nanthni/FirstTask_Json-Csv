@@ -1,0 +1,22 @@
+{
+  "Employee": [
+    {
+      "empMID": "mock:1",
+      "comments": [],
+      "col1": "something",
+      "contact": [{"address":"2400 waterview", "freetext":true}
+      ],
+      "gender": "male"
+    },
+    {
+      "empMID": "mock:2",
+      "comments": [],
+      "col1": "something",
+      "contact": [{"address":"2200 waterview", "freetext":true}
+      ],
+      "gender": "female"
+    }
+  ],
+  "cola": false,
+  "colb": false
+}
